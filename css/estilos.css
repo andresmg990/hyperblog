@@ -2,7 +2,6 @@ body{
 background: black;    
 text-align: left;
 font-family: Arial, Helvetica, sans-serif;
-
 color: #333;
 margin: 0;
 padding: 0; 
@@ -27,13 +26,13 @@ padding: 0;
     padding: 0.5em 0 0.5em 2em; 
     font-weight: bold;  
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
-
 }
 
 #cabecera #logo {
     width: 20px;
     vertical-align: middle;
 }
+
 #cabecera #tagline {
     font-weight: normal;
     font-size: 0.8em;
