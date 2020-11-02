@@ -1,4 +1,4 @@
-# hyperblog :tw-1f49a:
+# hyperblog 	&#x1f49a;
 Un blog increible para el [curso de git y GitHub](https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/ "curso de git y GitHub") de [Platzi](https://platzi.com "Platzi")
 > El curso de Git y GitHub de Platzi es lo que me hacia falta para triplicar mi salario y lanzarme a la industria del desarrollo web con el Road to Code.
 > - Niñita
