@@ -8,6 +8,7 @@ Un blog increible para el [curso de git y GitHub](https://platzi.com/clases/1557
 * El verdadero amor por las buenas practicas.
 * Trucos muy locos del profesor.
 * Las personalidades multiples de Freddy.
-* Creado por el increible Andres Morato
+* Creado por el increible Andres Morato.
+* Incluye ejemplos en Windows, Linux y Mac.
 
 Y como un amable recordatorio: **Este Readme es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a ver el [**curso**](https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/ "curso de git y GitHub"). 
